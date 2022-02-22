@@ -1,5 +1,5 @@
 # Web de Peĺiculas
-<img src="grilla.png" width="350">
+<img src="grilla.png">
 
 Es una web creada con react, para hacer uso de ella ejecutar
 `npm install -g serve`
